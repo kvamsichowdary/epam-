@@ -1,4 +1,4 @@
-After a hard quarter in the office you decide to get some rest on a vacation. So you will book a flight for you and your girlfriend and try to leave all the mess behind you.
+/*After a hard quarter in the office you decide to get some rest on a vacation. So you will book a flight for you and your girlfriend and try to leave all the mess behind you.
 
 You will need a rental car in order for you to get around in your vacation. The manager of the car rental makes you some good offers.
 
@@ -6,7 +6,7 @@ Every day you rent the car costs $40. If you rent the car for 7 or more days, yo
 
 Write a code that gives out the total amount for different days(d).
 -------------------------------------------------------------------------------------------------------------------------
-Solution :
+Solution :*/
 
 function rentalCarCost(d) {
   var daydis=0;
